@@ -17,8 +17,8 @@ const Skills = () => {
   const achievements = [
     {
       icon: <StarIcon className="h-8 w-8 text-yellow-500 animate-pulse" />,
-      title: "3⭐ CodeChef",
-      stats: "1750",
+      title: "4⭐ CodeChef",
+      stats: "1832",
       subtitle: "Competitive Programmer",
       color: "from-yellow-500 to-orange-500"
     },
@@ -32,7 +32,7 @@ const Skills = () => {
     {
       icon: <CodeBracketIcon className="h-8 w-8 text-green-500" />,
       title: "LeetCode + GFG",
-      stats: "500+",
+      stats: "600+",
       subtitle: "Problems Solved",
       color: "from-green-500 to-emerald-500"
     },
